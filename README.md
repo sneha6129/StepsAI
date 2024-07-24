@@ -12,6 +12,9 @@ Installation
 Ensure you have Python 3.7 or above installed. Install the required dependencies using the following command:
 
 pip install streamlit anytree sentence-transformers nltk PyPDF2 transformers torch
+To run the app:
+streamlit run app.py
+
 
 Required Libraries
 streamlit: For creating the web application interface.
